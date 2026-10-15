@@ -1,0 +1,16 @@
+
+.env
+.env.*
+!.env.example
+
+orders.db
+orders.db-*
+*.sqlite
+*.sqlite3
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+Microsoft VS Code/
